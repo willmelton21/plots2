@@ -13604,18 +13604,6 @@ window-size@0.1.0:
   resolved "https://registry.yarnpkg.com/window-size/-/window-size-0.1.0.tgz#5438cd2ea93b202efa3a19fe8887aee7c94f9c9d"
   integrity sha1-VDjNLqk7IC76Ohn+iIeu58lPnJ0=
 
-"woofmark@git+https://github.com/jywarren/woofmark.git#plots2":
-  version "4.0.3"
-  resolved "git+https://github.com/jywarren/woofmark.git#78821fad8687757a4201fbef3be4b85418e785ef"
-  dependencies:
-    bullseye "1.4.6"
-    bureaucracy "1.0.7"
-    crossvent "1.5.0"
-    http-server "^0.12.3"
-    kanye "3.0.2"
-    local-storage "1.4.2"
-    seleccion "2.0.0"
-
 "woofmark@https://github.com/jywarren/woofmark.git#plots2":
   version "4.0.3"
   uid "78821fad8687757a4201fbef3be4b85418e785ef"
